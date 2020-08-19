@@ -1,0 +1,2 @@
+# Team-039-Backend
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7a6beaacff4a4c08b4e7a5eab028ab9b)](https://app.codacy.com/gh/BuildForSDGCohort2/Team-039-Backend?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDGCohort2/Team-039-Backend&utm_campaign=Badge_Grade_Settings)
